@@ -1,0 +1,4 @@
+#Fri Mar 01 16:24:36 CST 2019
+base.0=C\:\\Users\\76053\\AndroidStudioProjects\\Hola Tostada\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\10
+path.0=classes.dex
+renamed.0=classes.dex
